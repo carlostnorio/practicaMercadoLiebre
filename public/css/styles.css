@@ -236,3 +236,25 @@ article div.main-article{
     flex-direction: column;
 }
 
+footer{
+
+    width: 100vw;
+    padding: 0%;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0%;
+   
+}
+
+footer article{
+    line-height: 31px;
+    margin: auto;
+    padding: 1%;
+}
+
+footer article p {
+    line-height: 126%;
+    padding: 3%;
+
+}
+
